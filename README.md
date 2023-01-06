@@ -9,7 +9,7 @@ For purpose of this script cordata.zip was last modified 10/9/2022 10:21:26, siz
 
 Within this zip are a series of text files:
 
+![Corporate data text files](cordata_files.png)
 
-
-The text files are structured as follows:
+The text files include 79 fields and are structured as follows:
 https://dos.myflorida.com/sunbiz/other-services/data-downloads/corporate-data-file/file-structure/
